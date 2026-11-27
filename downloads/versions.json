@@ -1,0 +1,51 @@
+{
+  "current": "1.1.19",
+  "updated": "2026-11-28",
+  "versions": [
+    {
+      "version": "1.1.19",
+      "file": "downloads/FOTRIVA-1.1.19.apk",
+      "sizeBytes": 3883024,
+      "sha256": "69fc52eb5f8a474a4f7376d1d758f4f0f8bfd118e81ba54291fc6e36e616c90d",
+      "date": "2026-11-28",
+      "current": true,
+      "notes": "Безопасная очистка контактов (лиды не удаляются); защита облачных копий; даты трат и 'Чистыми за период' в аналитике; заметки клиента; восстановление из копии в онбординге; раздельная отправка фото/видео; налог в карточке проекта; защита от дублей; 'Отметить оплаченным' с выбором даты"
+    },
+    {
+      "version": "1.1.17",
+      "file": "downloads/FOTRIVA-1.1.17.apk",
+      "sizeBytes": 3842016,
+      "sha256": "a90fc3dec663ffaa178ed1961b628357d56e93bd01ab99f4ed4934496b0758ea",
+      "date": "2026-11-27",
+      "current": false,
+      "notes": ""
+    },
+    {
+      "version": "1.1.16",
+      "file": "downloads/FOTRIVA-1.1.16.apk",
+      "sizeBytes": 3842072,
+      "sha256": "60033d662689a231d683dd5c38ccbdc1833fef003f04b090a22395069696524f",
+      "date": "2026-11-27",
+      "current": false,
+      "notes": ""
+    },
+    {
+      "version": "1.1.14",
+      "file": "downloads/FOTRIVA-1.1.14.apk",
+      "sizeBytes": 3814448,
+      "sha256": "2cd3807b955e25166b7cbc5e3686e20580d3f011cfa2d11e74424f069b225989",
+      "date": "2026-11-26",
+      "current": false,
+      "notes": ""
+    },
+    {
+      "version": "1.1.13",
+      "file": "downloads/FOTRIVA-1.1.13.apk",
+      "sizeBytes": 3805748,
+      "sha256": "d1fccf76dbb0988c87bdb5cfb37543d02271001a50d89e3883710942cf4aa617",
+      "date": "2026-11-24",
+      "current": false,
+      "notes": ""
+    }
+  ]
+}
